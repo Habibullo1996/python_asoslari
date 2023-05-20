@@ -54,3 +54,7 @@
 # numListAll.append(numList)
 # print(numListAll)
 
+from random import randint
+
+a = randint(5, 10)
+print(a)
